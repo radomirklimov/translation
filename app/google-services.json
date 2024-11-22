@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074743815097",
+    "project_id": "translator-ee2bc",
+    "storage_bucket": "translator-ee2bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074743815097:android:dec4c5936d58d503aca468",
+        "android_client_info": {
+          "package_name": "com.example.translatorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlzQtykXdhrd-3M8MfetGG1pd1PuQrEA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
